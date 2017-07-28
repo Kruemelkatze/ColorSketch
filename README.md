@@ -11,6 +11,12 @@ The code includes handles for some basic settings:
 * 3 types of grayscale conversions and switchable contrast enhancement (both really impact the end results!)
 * Some global fine-tuning parameters and lots of parameters hidden in the code (see them as a kind of easter eggs [the classic, edible ones])
 
+## Example images
+Thanks...
+* for the **cat** to Wikipedia (CC)
+* for **Lenna** to the Image Processing community
+* for the **girl** to Maryse Casol (found in the [XDoG-Paper](http://www.kyprianidis.com/p/cag2012/winnemoeller-cag2012.pdf) by Winnemöller et al.)
+
 ## Examples
 Coming soon :)
 
