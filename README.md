@@ -18,7 +18,8 @@ Thanks...
 * for the **girl** to Maryse Casol (found in the [XDoG-Paper](http://www.kyprianidis.com/p/cag2012/winnemoeller-cag2012.pdf) by Winnemöller et al.)
 
 ## Examples
-Coming soon :)
+![Results](https://github.com/Kruemelkatze/ColorSketch/blob/master/examples/results.jpg?raw=true)
+For more, see [the examples folder](https://github.com/Kruemelkatze/ColorSketch/tree/master/examples).
 
 ## Dependencies
 * Python 3 :-)
